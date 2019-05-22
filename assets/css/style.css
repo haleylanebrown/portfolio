@@ -805,5 +805,19 @@ footer h4{
 
 #portfolioTitle2 {
     text-align: center;
-    margin: 20% auto;
+    margin: 5% auto;
+}
+
+#githubIcon {
+    font-size: 40px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px
+}
+
+#info {
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    padding: 10px
 }
