@@ -1,1 +1,1 @@
-[Check out my portfolio here](https://haleylanebrown.github.io/portfolio/)
+[Click here to visit my portfolio!](https://haleylanebrown.github.io/portfolio/)
